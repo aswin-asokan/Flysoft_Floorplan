@@ -1,6 +1,6 @@
 # Flysoft Floorplan
 ## Project Overview
-The Floorplan Design and Customization Application was developed during an internship at Flysoft Systems from October 2024 to December 2024. This project aimed to create an intuitive application that allows restaurant owners to design, customize, and manage their restaurant layouts seamlessly. It involved developing a cross-platform solution using Flutter and Dart, targeting Android, Windows, and Linux platforms.
+The Floorplan Application was developed during an internship at Flysoft Systems from October 2024 to December 2024. This project aimed to create an intuitive application that allows restaurant owners to design, customize, and manage their restaurant layouts seamlessly. It involved developing a cross-platform solution using Flutter and Dart, targeting Android, Windows, and Linux platforms.
 
 ## Key Features
 1. Drag-and-Drop Interface: A user-friendly interface to position tables.
